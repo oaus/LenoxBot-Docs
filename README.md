@@ -18,3 +18,4 @@ If you are a **new** user of LenoxBot, I would advise you to read on
 
 so that you will **quickly** become familiar with LenoxBot!
 
+Spanish translation - totopizza (test)
